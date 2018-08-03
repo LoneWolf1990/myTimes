@@ -8,8 +8,6 @@ header {
 	font-size: 14px;
 	font-weight: bold;
 	display: flex;
-	align-items: flex-end;
-	flex-direction: row;
 	width: 100%;
 }
 
