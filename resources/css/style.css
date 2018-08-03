@@ -1,8 +1,4 @@
-* {
-	border: 1px solid black;
-}
-
-header {
+	header {
 	color: MediumAquamarine;
 	font-family: "Verdana";
 	font-size: 14px;
@@ -12,10 +8,10 @@ header {
 	width: 100%;
 }
 
-.flex-left {
+/*.flex-left {
 	justify-content: flex-start;
 }
 
 .flex-right {
 	justify-content: flex-end;
-}
+}*/
