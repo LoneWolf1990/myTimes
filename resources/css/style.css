@@ -1,11 +1,17 @@
-	header {
+header {
 	color: MediumAquamarine;
 	font-family: "Verdana";
 	font-size: 14px;
 	font-weight: bold;
-	display: flex;
-	flex-grow: 2;
+	display: inline-flex;
+	align-items: center;
+	flex-grow: 1;
 	width: 100%;
+}
+
+.logo {
+	display: inline-flex;
+	align-items: center;
 }
 
 /*.flex-left {
@@ -14,4 +20,4 @@
 
 .flex-right {
 	justify-content: flex-end;
-}
+}*/
